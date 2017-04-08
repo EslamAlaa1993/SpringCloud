@@ -1,5 +1,5 @@
 configuration: 
-  projectName: ConfigServerUp
+  projectName: ConfigServerUp2
 server:  
   port: 8000
 message:  
