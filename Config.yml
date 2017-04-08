@@ -1,4 +1,4 @@
 configuration: 
-  projectName: ConfigServerUp!
+  projectName: ConfigServer!
 message:  
   greeting: Hello from the configuration
