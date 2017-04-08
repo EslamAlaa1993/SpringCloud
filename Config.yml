@@ -1,6 +1,6 @@
 configuration: 
   projectName: ConfigServerUp
 server:  
-  port: 8000
+  port: 8585
 message:  
   greeting: Hello from the configuration
