@@ -1,4 +1,4 @@
-onfiguration:  
+configuration: 
   projectName: Config
 server:  
   port: 8000
