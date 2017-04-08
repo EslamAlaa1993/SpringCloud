@@ -1,5 +1,5 @@
 onfiguration:  
-  projectName: configclient
+  projectName: Config
 server:  
   port: 8000
 message:  
